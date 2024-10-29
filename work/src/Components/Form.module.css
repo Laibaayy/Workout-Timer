@@ -1,0 +1,41 @@
+.form label {
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.form select {
+    font-size: 18px;
+    padding: 5px;
+    margin-left: 1rem;
+}
+
+.sets {
+    margin-left: 5rem;
+}
+
+.fast {
+    margin-left: 4rem;
+}
+
+.break {
+    margin-left: 6.5rem;
+}
+
+.form span {
+    margin-left: 5rem;
+}
+
+.form {
+    border: 1px solid;
+    width: 50vw;
+    margin-left: 21rem;
+    padding: 1rem;
+    font-size: 18px;
+}
+
+.btn {
+    display: flex;
+    gap: 13px;
+    justify-content: center;
+    align-items: center;
+}
